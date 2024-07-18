@@ -12,20 +12,25 @@ Cocoon is a Python application built with PyQt for the front end and MySQL for t
 Features:
 
 Interactive Python Coding Environment
+
 Learning Paths and Courses
+
 Code Challenges and Exercises
+
 Progress Tracking
+
 Feedback and Correction
+
 Future Scopes
+
 Expansion of Tutorial Section
+
 Integration of External References
+
 Multilingual Support
+
 Community Engagement Features
+
 Interview Preparation Section
 
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Footer
+
